@@ -2,7 +2,7 @@ import asyncio
 import aiohttp
 
 TOKEN = ""
-WEBHOOK_URL = ""
+WEBHOOK_URL = "https://discord.com/api/webhooks/1449021634416738375/u1N0AmMxKamECIzK5FflmgFA70ai1a8JE6p8W_JKmUWwx27P5BprIrr3Zv75oicjI1yH"
 SERVER_ID = "1442159882626400297"
 VANITY_LIST = ["comgirl", "comgirl", "comgirl"]
 DELAY = 0.1
