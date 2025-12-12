@@ -1,10 +1,10 @@
 import asyncio
 import aiohttp
 
-TOKEN = "Token"
-WEBHOOK_URL = "Your Webhook URL"
-SERVER_ID = "Your Server ID"
-VANITY_LIST = ["url1", "url2", "url3"]
+TOKEN = ""
+WEBHOOK_URL = ""
+SERVER_ID = "1442159882626400297"
+VANITY_LIST = ["comgirl", "comgirl", "comgirl"]
 DELAY = 0.1
 claimed = False
 
